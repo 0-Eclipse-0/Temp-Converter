@@ -1,0 +1,5 @@
+Author: Matthew Hambrecht
+Language: Ruby
+Formula: (Fahr - 32)(5/9)
+Information: This is a simple calculator that I originally made in C. Due to the fact most people don't have linux for easily compiling 
+C, I recoded it in Ruby so windows and mac users can now easily compile and test the program. I may add the C scipt later but for now I am only going to share the Ruby version.
